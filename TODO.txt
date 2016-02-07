@@ -1,0 +1,15 @@
+corrigeNomFichiers a un probleme si le nom du fichier a un ;
+
+si repertoire source absent, erreur correctement loguee mais dans le fichier journal, l'erreur n'apparait pas
+verifier si pareil pour repertoire destination absent
+surtout dans ce cas, il ne faut pas mettre le drapeau
+
+effacer les fichiers journaux de plus de trois mois
+
+envoyer un mail une fois par mois (mettre un parametre avec l'adresse mail)
+mettre des couleurs
+
+apparemment les sauvegardes dans Lacie sont refaites entierement systematiquement
+
+mettre une option sur un nombre de jours avant de refaire la sauvegarde
+
